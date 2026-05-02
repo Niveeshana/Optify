@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/chroma_db/
+backend/model/glaucoma_model.h5
+
+# Secret keys - never upload these
+backend/.env
+frontend/.env
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
